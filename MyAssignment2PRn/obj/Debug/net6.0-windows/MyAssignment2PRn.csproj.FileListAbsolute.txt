@@ -1,0 +1,17 @@
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\bin\Debug\net6.0-windows\MyAssignment2PRn.exe
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\bin\Debug\net6.0-windows\MyAssignment2PRn.deps.json
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\bin\Debug\net6.0-windows\MyAssignment2PRn.runtimeconfig.json
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\bin\Debug\net6.0-windows\MyAssignment2PRn.dll
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\bin\Debug\net6.0-windows\MyAssignment2PRn.pdb
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.csproj.AssemblyReference.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.lblName.resources
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.csproj.GenerateResource.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.AssemblyInfoInputs.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.AssemblyInfo.cs
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.csproj.CoreCompileInputs.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.dll
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\refint\MyAssignment2PRn.dll
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.pdb
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\MyAssignment2PRn.genruntimeconfig.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\MyAssignment2PRn\obj\Debug\net6.0-windows\ref\MyAssignment2PRn.dll

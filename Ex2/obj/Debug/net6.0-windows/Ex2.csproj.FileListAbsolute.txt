@@ -1,0 +1,51 @@
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.AssemblyReference.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.lblSecuCode.resources
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.GenerateResource.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.AssemblyInfoInputs.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.AssemblyInfo.cs
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.CoreCompileInputs.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.exe
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.deps.json
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.runtimeconfig.json
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.dll
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.pdb
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.dll
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\refint\Ex2.dll
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.pdb
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.genruntimeconfig.cache
+D:\FULearning\Semester 5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\ref\Ex2.dll
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.exe
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.deps.json
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.runtimeconfig.json
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.dll
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\bin\Debug\net6.0-windows\Ex2.pdb
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.AssemblyReference.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.lblSecuCode.resources
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.GenerateResource.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.AssemblyInfoInputs.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.AssemblyInfo.cs
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.CoreCompileInputs.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.dll
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\refint\Ex2.dll
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.pdb
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\Ex2.genruntimeconfig.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment2PRn\Ex2\obj\Debug\net6.0-windows\ref\Ex2.dll
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\bin\Debug\net6.0-windows\Ex2.exe
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\bin\Debug\net6.0-windows\Ex2.deps.json
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\bin\Debug\net6.0-windows\Ex2.runtimeconfig.json
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\bin\Debug\net6.0-windows\Ex2.dll
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\bin\Debug\net6.0-windows\Ex2.pdb
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.AssemblyReference.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.lblSecuCode.resources
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.GenerateResource.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.AssemblyInfoInputs.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.AssemblyInfo.cs
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.csproj.CoreCompileInputs.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.dll
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\refint\Ex2.dll
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.pdb
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\Ex2.genruntimeconfig.cache
+D:\FULearning\Semester5\PRN211\SourcePRN211\MyAssignment1\Ex2\obj\Debug\net6.0-windows\ref\Ex2.dll
